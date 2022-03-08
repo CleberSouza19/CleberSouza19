@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CleberSouza19
-- 👀  Futuro Desenvolvedor .NET
+- 👀  .NET developer
 - 🌱 I’m currently learning ...C#
 - 📫 How to reach me ... clebersouza19@gmail.com
